@@ -119,9 +119,6 @@ Run it multiple times — streaming makes more sense visually.
 Real-Time Consumer Output
 <img src="assets/terminal_output.png" width="600">
 
-
-<div align="center"> <img src="assets/shebet.png" width="350"> </div>
-
 ### 🔗 How This Connects to My Real Project
 
 SheBETS currently processes bets after they're placed.
