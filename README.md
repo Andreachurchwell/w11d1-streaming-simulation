@@ -13,10 +13,17 @@
 `docker exec -it kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic orders --from-beginning` -->
 
 
-## <div align="center">W11D1 Streaming Assignment – NBA Betting Simulation 🎬🏀</div>
-### <div align="center">Andrea Churchwell</div>
-#### <div align="center">Justice Through Code – Applied AI Solutions Engineering</div>
-#### <div align="center">December 2025</div>
+<div align="center">
+
+## **W11D1 Streaming Assignment – NBA Betting Simulation 🎬🏀**
+
+**Andrea Churchwell**  
+*Justice Through Code – Applied AI Solutions Engineering*  
+*December 2025*
+
+---
+
+</div>
 
 
 ### 🌟 Overview
